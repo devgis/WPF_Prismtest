@@ -1,0 +1,17 @@
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\bin\Debug\WPF.DazzleUI2.dll
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\bin\Debug\WPF.DazzleUI2.pdb
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\Themes\Generic.baml
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\WPF.DazzleUI2_MarkupCompile.cache
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\WPF.DazzleUI2_MarkupCompile.lref
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\Themes\DazzleButton.baml
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\Themes\DazzleTabControl.baml
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\Themes\DazzleTabItem.baml
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\Themes\DazzleWindow.baml
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\WPF.DazzleUI2.g.resources
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\WPF.DazzleUI2.Properties.Resources.resources
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\WPF.DazzleUI2.dll
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\WPF.DazzleUI2\obj\Debug\WPF.DazzleUI2.pdb

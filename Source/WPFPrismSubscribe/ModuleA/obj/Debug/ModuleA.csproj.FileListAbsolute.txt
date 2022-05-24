@@ -1,0 +1,36 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\bin\Debug\ModuleA.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\bin\Debug\ModuleA.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\bin\Debug\Contract.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\bin\Debug\Microsoft.Practices.Prism.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\bin\Debug\Microsoft.Practices.Unity.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\bin\Debug\Contract.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\MyViewA.baml
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\MyViewA.g.cs
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\ModuleA_MarkupCompile.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\ModuleA.g.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\ModuleA.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\ModuleA.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleA\obj\Debug\ModuleA.pdb
+E:\Temp\WPFPrism\ModuleA\bin\Debug\ModuleA.dll
+E:\Temp\WPFPrism\ModuleA\bin\Debug\ModuleA.pdb
+E:\Temp\WPFPrism\ModuleA\bin\Debug\Contract.dll
+E:\Temp\WPFPrism\ModuleA\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Temp\WPFPrism\ModuleA\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+E:\Temp\WPFPrism\ModuleA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Temp\WPFPrism\ModuleA\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Temp\WPFPrism\ModuleA\bin\Debug\Contract.pdb
+E:\Temp\WPFPrism\ModuleA\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\WPFPrism\ModuleA\obj\Debug\MyViewA.baml
+E:\Temp\WPFPrism\ModuleA\obj\Debug\MyViewA.g.cs
+E:\Temp\WPFPrism\ModuleA\obj\Debug\ModuleA_MarkupCompile.cache
+E:\Temp\WPFPrism\ModuleA\obj\Debug\ModuleA.g.resources
+E:\Temp\WPFPrism\ModuleA\obj\Debug\ModuleA.Properties.Resources.resources
+E:\Temp\WPFPrism\ModuleA\obj\Debug\GenerateResource.read.1.tlog
+E:\Temp\WPFPrism\ModuleA\obj\Debug\GenerateResource.write.1.tlog
+E:\Temp\WPFPrism\ModuleA\obj\Debug\ModuleA.dll
+E:\Temp\WPFPrism\ModuleA\obj\Debug\ModuleA.pdb

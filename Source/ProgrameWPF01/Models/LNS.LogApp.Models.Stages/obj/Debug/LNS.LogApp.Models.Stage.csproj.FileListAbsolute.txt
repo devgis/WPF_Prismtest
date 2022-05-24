@@ -1,0 +1,16 @@
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\bin\Debug\LNS.LogApp.Models.Stage.dll
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\bin\Debug\LNS.LogApp.Models.Stage.pdb
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\bin\Debug\LNS.LogApp.Contract.dll
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\bin\Debug\LNS.LogApp.Contract.pdb
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\StageView.g.cs
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\LNS.LogApp.Models.Stage_MarkupCompile.cache
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\LNS.LogApp.Models.Stage_MarkupCompile.lref
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\StageView.baml
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\LNS.LogApp.Models.Stage.g.resources
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\LNS.LogApp.Models.Properties.Resources.resources
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\GenerateResource.read.1.tlog
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\GenerateResource.write.1.tlog
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\LNS.LogApp.Models.Stage.dll
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Stages\obj\Debug\LNS.LogApp.Models.Stage.pdb

@@ -1,0 +1,7 @@
+﻿<xapCache source="E:\MoreEvent\MoreEvent\Bin\Debug\MoreEvent.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2010-12-8 19:34:26">
+  <file source="E:\MoreEvent\MoreEvent\obj\Debug\MoreEvent.dll" archivePath="MoreEvent.dll" lastWriteTime="2010-12-8 19:34:25" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="2010-6-21 17:56:56" />
+  <file source="E:\MoreEvent\MoreEventViewModel\Bin\Debug\MoreEventViewModel.dll" archivePath="MoreEventViewModel.dll" lastWriteTime="2010-12-8 19:27:44" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="2010-6-21 17:56:56" />
+  <file source="E:\MoreEvent\MoreEvent\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2010-12-8 19:32:27" />
+</xapCache>

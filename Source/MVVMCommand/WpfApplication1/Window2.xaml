@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApplication1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+		xmlns:vm="clr-namespace:WpfApplication1"
+        Title="Window2" Height="124" Width="214">
+	<Window.DataContext>
+		<vm:Window2ViewModel />
+	</Window.DataContext>
+    <Grid>
+		<Button Name="btn" Content="Button" Height="33" HorizontalAlignment="Left" Margin="40,24,0,0" VerticalAlignment="Top" Width="109">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<i:InvokeCommandAction Command="{Binding Command1}" CommandParameter="10" />
+				</i:EventTrigger>
+				<i:EventTrigger EventName="MouseMove">
+					<i:InvokeCommandAction Command="{Binding Command2}" CommandParameter="{Binding ElementName=btn}" />
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+	</Grid>
+</Window>

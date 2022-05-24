@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreEvent", "MoreEvent\MoreEvent.csproj", "{F6097923-1409-4BFB-8BF9-FD514AA29F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreEvent.Web", "MoreEvent.Web\MoreEvent.Web.csproj", "{EDE3B078-C9E9-440C-AFD7-6BEE32278A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreEventViewModel", "MoreEventViewModel\MoreEventViewModel.csproj", "{B998114C-CBAE-4D05-B9AE-28DD0013763F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6097923-1409-4BFB-8BF9-FD514AA29F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6097923-1409-4BFB-8BF9-FD514AA29F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6097923-1409-4BFB-8BF9-FD514AA29F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6097923-1409-4BFB-8BF9-FD514AA29F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE3B078-C9E9-440C-AFD7-6BEE32278A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE3B078-C9E9-440C-AFD7-6BEE32278A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE3B078-C9E9-440C-AFD7-6BEE32278A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE3B078-C9E9-440C-AFD7-6BEE32278A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B998114C-CBAE-4D05-B9AE-28DD0013763F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B998114C-CBAE-4D05-B9AE-28DD0013763F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B998114C-CBAE-4D05-B9AE-28DD0013763F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B998114C-CBAE-4D05-B9AE-28DD0013763F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

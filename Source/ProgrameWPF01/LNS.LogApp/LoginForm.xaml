@@ -1,0 +1,46 @@
+﻿<dui:DazzleWindow x:Class="LNS.LogApp.LoginForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dui="clr-namespace:LNS.LogApp.Controls;assembly=LNS.LogApp.Controls"
+        Title="LoginForm" Height="260" Width="360" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FontSize="18">
+    <Grid Height="260" Width="360">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="Skin/Bd/bkg.jpg"/>
+        </Grid.Background>
+
+        <Label Content="莱诺斯日志管理系统" HorizontalAlignment="Left" Margin="5,0,0,0" VerticalAlignment="Top" Foreground="White" FontSize="11"/>
+        <dui:DazzleButton HorizontalAlignment="Right" VerticalAlignment="Top" Width="27" Height="22" Margin="0,0,15,0" Click="DazzleButton_Click">
+            <dui:DazzleButton.MyMoverBrush>
+                <ImageBrush ImageSource="/LNS.LogApp;component/Skin/Button/xm.png"/>
+            </dui:DazzleButton.MyMoverBrush>
+            <dui:DazzleButton.MyEnterBrush>
+                <ImageBrush ImageSource="/LNS.LogApp;component/Skin/Button/xe.png"/>
+            </dui:DazzleButton.MyEnterBrush>
+            <dui:DazzleButton.Background>
+                <ImageBrush ImageSource="/LNS.LogApp;component/Skin/Button/xn.png"/>
+            </dui:DazzleButton.Background>
+        </dui:DazzleButton>
+        <dui:DazzleButton HorizontalAlignment="Right" VerticalAlignment="Top" Width="27" Height="22" Margin="0,0,38,0" Click="DazzleButton_Click_2">
+            <dui:DazzleButton.MyMoverBrush>
+                <ImageBrush ImageSource="Skin/Button/mim.png"/>
+            </dui:DazzleButton.MyMoverBrush>
+            <dui:DazzleButton.MyEnterBrush>
+                <ImageBrush ImageSource="Skin/Button/mie.png"/>
+            </dui:DazzleButton.MyEnterBrush>
+            <dui:DazzleButton.Background>
+                <ImageBrush ImageSource="Skin/Button/min.png"/>
+            </dui:DazzleButton.Background>
+        </dui:DazzleButton>
+        <Label Content="用户：" Grid.Row="1" Height="28" HorizontalAlignment="Left" Margin="40,42,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="密码：" Grid.Row="1" Height="28" HorizontalAlignment="Left" Margin="40,97,0,0" Name="label2" VerticalAlignment="Top" />
+        <TextBox Grid.Row="1" Height="30" Margin="102,41,61,0" Name="textBox1" VerticalAlignment="Top" />
+        <PasswordBox Grid.Row="1" Height="30" HorizontalAlignment="Left" Margin="102,96,0,0" Name="textBox2" VerticalAlignment="Top" Width="197" />
+        <dui:DazzleButton Content="登陆" Grid.Row="1" Height="30" HorizontalAlignment="Left" Margin="76,149,0,0" Name="button1" VerticalAlignment="Top" Width="91" Click="button1_Click_1" />
+        <dui:DazzleButton Content="取消" Height="30" HorizontalAlignment="Right" Margin="0,149,86,0" Name="button2" VerticalAlignment="Top" Width="91" Grid.Row="1" Click="button2_Click" />
+        <Label Content="Copyright © Linose 2015" Grid.Row="1" Height="28" HorizontalAlignment="Left" Margin="195,191,0,0" Name="label3" VerticalAlignment="Top" FontSize="12" />
+    </Grid>
+</dui:DazzleWindow>

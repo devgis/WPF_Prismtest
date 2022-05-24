@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfAppMvvmTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock Text="{Binding model.WPF}" Height="208" TextWrapping="WrapWithOverflow"></TextBlock>
+            <Button Command="{Binding SaveCommand}" Content="Save" Height="38" Width="73" />
+            <Button Command="{Binding CopyCmd}" Height="74" Width="150">Copy</Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

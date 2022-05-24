@@ -1,0 +1,5 @@
+E:\MoreEvent\MoreEventViewModel\Bin\Debug\MoreEventViewModel.dll
+E:\MoreEvent\MoreEventViewModel\Bin\Debug\MoreEventViewModel.pdb
+E:\MoreEvent\MoreEventViewModel\obj\Debug\ResolveAssemblyReference.cache
+E:\MoreEvent\MoreEventViewModel\obj\Debug\MoreEventViewModel.dll
+E:\MoreEvent\MoreEventViewModel\obj\Debug\MoreEventViewModel.pdb

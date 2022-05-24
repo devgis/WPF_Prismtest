@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{50672844-A21C-444B-B6F5-8DE56139E1E6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LNS.LogApp</RootNamespace>
+    <AssemblyName>LNS.LogApp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Practices.Prism, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism.Interactivity">
+      <HintPath>..\Lib\Microsoft.Practices.Prism.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism.MefExtensions">
+      <HintPath>..\Lib\Microsoft.Practices.Prism.MefExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism.UnityExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Microsoft.Practices.Prism.UnityExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=2.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="LoginForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LogAppBootstrapper.cs" />
+    <Compile Include="LoginForm.xaml.cs">
+      <DependentUpon>LoginForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Skin\Button\mie.png" />
+    <Resource Include="Skin\Button\mim.png" />
+    <Resource Include="Skin\Button\min.png" />
+    <Resource Include="Skin\Button\mme.png" />
+    <Resource Include="Skin\Button\mmm.png" />
+    <Resource Include="Skin\Button\mmn.png" />
+    <Resource Include="Skin\Button\mse.png" />
+    <Resource Include="Skin\Button\msm.png" />
+    <Resource Include="Skin\Button\msn.png" />
+    <Resource Include="Skin\Button\mxe.png" />
+    <Resource Include="Skin\Button\mxm.png" />
+    <Resource Include="Skin\Button\mxn.png" />
+    <Resource Include="Skin\Button\ske.png" />
+    <Resource Include="Skin\Button\skm.png" />
+    <Resource Include="Skin\Button\skn.png" />
+    <Resource Include="Skin\Button\xe.png" />
+    <Resource Include="Skin\Button\xm.png" />
+    <Resource Include="Skin\Button\xn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Skin\Bd\background_mainwnd.png" />
+    <Resource Include="Skin\Bd\enter.png" />
+    <Resource Include="Skin\Bd\logo.png" />
+    <Resource Include="Skin\Bd\mover.png" />
+    <Resource Include="Skin\home.png" />
+    <Resource Include="Skin\Icon\ico_dsmain.png" />
+    <Resource Include="Skin\Icon\ico_Examine.png" />
+    <Resource Include="Skin\Icon\ico_softmgr.png" />
+    <Resource Include="Skin\Icon\ico_SpeedupOpt.png" />
+    <Resource Include="Skin\Icon\ico_SysRepair.png" />
+    <Resource Include="Skin\Icon\ico_TraceCleaner.png" />
+    <Resource Include="Skin\Icon\ico_VulRepair.png" />
+    <Resource Include="Skin\ldxf.png" />
+    <Resource Include="Skin\muma.png" />
+    <Resource Include="Skin\xtql.png" />
+    <Resource Include="Skin\xtxf.png" />
+    <Resource Include="Skin\xtyh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Skin\Bd\bkg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Skin\Bd\logo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LNS.LogApp.Contract\LNS.LogApp.Contract.csproj">
+      <Project>{3C996A7E-0CF1-42B3-A473-653C99ACBE45}</Project>
+      <Name>LNS.LogApp.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LNS.LogApp.Controls\LNS.LogApp.Controls.csproj">
+      <Project>{53B936B8-79D9-4043-B8E6-7A9EDAAA1BB0}</Project>
+      <Name>LNS.LogApp.Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\LNS.LogApp.Models.Department\LNS.LogApp.Models.Department.csproj">
+      <Project>{ABDD9821-2A81-483E-8B56-BA35ED66A5E9}</Project>
+      <Name>LNS.LogApp.Models.Department</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\LNS.LogApp.Models.Log\LNS.LogApp.Models.Log.csproj">
+      <Project>{AF010249-5CBC-48E6-8C2C-F2B371070861}</Project>
+      <Name>LNS.LogApp.Models.Log</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\LNS.LogApp.Models.Model\LNS.LogApp.Models.Model.csproj">
+      <Project>{899C14AC-2EC7-41D3-ABBC-15DC15A23B31}</Project>
+      <Name>LNS.LogApp.Models.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\LNS.LogApp.Models.Person\LNS.LogApp.Models.Person.csproj">
+      <Project>{62814C68-AFA6-4F91-9688-D72EE4383906}</Project>
+      <Name>LNS.LogApp.Models.Person</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\LNS.LogApp.Models.Project\LNS.LogApp.Models.Project.csproj">
+      <Project>{8577D91D-B689-46DA-B5B5-B45F47CE8EB7}</Project>
+      <Name>LNS.LogApp.Models.Project</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\LNS.LogApp.Models.Stages\LNS.LogApp.Models.Stage.csproj">
+      <Project>{36B97598-A238-434F-A898-DB2ED6F5CB5F}</Project>
+      <Name>LNS.LogApp.Models.Stage</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

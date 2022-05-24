@@ -1,0 +1,16 @@
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\bin\Debug\LNS.LogApp.Models.Model.dll
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\bin\Debug\LNS.LogApp.Models.Model.pdb
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\bin\Debug\LNS.LogApp.Contract.dll
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\bin\Debug\LNS.LogApp.Contract.pdb
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\ModelView.g.cs
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\LNS.LogApp.Models.Model_MarkupCompile.cache
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\LNS.LogApp.Models.Model_MarkupCompile.lref
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\ModelView.baml
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\LNS.LogApp.Models.Model.g.resources
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\LNS.LogApp.Models.Properties.Resources.resources
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\GenerateResource.read.1.tlog
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\GenerateResource.write.1.tlog
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\LNS.LogApp.Models.Model.dll
+E:\WPF\trunk\Programe\Models\LNS.LogApp.Models.Model\obj\Debug\LNS.LogApp.Models.Model.pdb

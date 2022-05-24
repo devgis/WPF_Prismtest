@@ -1,0 +1,13 @@
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\bin\Debug\WpfAppMvvmTest.exe
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\bin\Debug\WpfAppMvvmTest.pdb
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\WpfAppMvvmTest_MarkupCompile.cache
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\WpfAppMvvmTest.g.resources
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\WpfAppMvvmTest.Properties.Resources.resources
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\WpfAppMvvmTest.exe
+C:\Documents and Settings\administrator.LNS\Local Settings\Application Data\Temporary Projects\WpfAppMvvmTest\obj\x86\Debug\WpfAppMvvmTest.pdb

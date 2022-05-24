@@ -1,0 +1,55 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\bin\Debug\ModuleB.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\bin\Debug\ModuleB.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\bin\Debug\Contract.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\bin\Debug\Contract.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\MyViewB.baml
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\MyViewB.g.cs
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\ModuleB_MarkupCompile.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\ModuleB.g.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\ModuleB.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\ModuleB.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\obj\Debug\ModuleB.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\bin\Debug\Microsoft.Practices.Prism.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\ModuleB\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Temp\WPFPrism\ModuleB\bin\Debug\ModuleB.dll
+E:\Temp\WPFPrism\ModuleB\bin\Debug\ModuleB.pdb
+E:\Temp\WPFPrism\ModuleB\bin\Debug\Contract.dll
+E:\Temp\WPFPrism\ModuleB\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Temp\WPFPrism\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Temp\WPFPrism\ModuleB\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Temp\WPFPrism\ModuleB\bin\Debug\Contract.pdb
+E:\Temp\WPFPrism\ModuleB\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\WPFPrism\ModuleB\obj\Debug\MyViewB.baml
+E:\Temp\WPFPrism\ModuleB\obj\Debug\MyViewB.g.cs
+E:\Temp\WPFPrism\ModuleB\obj\Debug\ModuleB_MarkupCompile.cache
+E:\Temp\WPFPrism\ModuleB\obj\Debug\ModuleB.g.resources
+E:\Temp\WPFPrism\ModuleB\obj\Debug\ModuleB.Properties.Resources.resources
+E:\Temp\WPFPrism\ModuleB\obj\Debug\GenerateResource.read.1.tlog
+E:\Temp\WPFPrism\ModuleB\obj\Debug\GenerateResource.write.1.tlog
+E:\Temp\WPFPrism\ModuleB\obj\Debug\ModuleB.dll
+E:\Temp\WPFPrism\ModuleB\obj\Debug\ModuleB.pdb
+E:\Temp\WPFPrism\ModuleB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Temp\WPFPrism\ModuleB\obj\Debug\ModuleB_MarkupCompile.lref
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\bin\Debug\ModuleB.dll
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\bin\Debug\ModuleB.pdb
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\bin\Debug\Contract.dll
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\bin\Debug\Contract.pdb
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\MyViewB.g.cs
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\ModuleB_MarkupCompile.cache
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\ModuleB_MarkupCompile.lref
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\MyViewB.baml
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\ModuleB.g.resources
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\ModuleB.Properties.Resources.resources
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\GenerateResource.read.1.tlog
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\GenerateResource.write.1.tlog
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\ModuleB.dll
+E:\Temp\WPFPrism\WPFPrism06\ModuleB\obj\Debug\ModuleB.pdb

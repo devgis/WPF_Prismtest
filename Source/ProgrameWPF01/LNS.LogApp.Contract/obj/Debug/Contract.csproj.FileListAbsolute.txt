@@ -1,0 +1,19 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\Contract\bin\Debug\Contract.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\Contract\bin\Debug\Contract.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\Contract\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\Contract\obj\Debug\Contract.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\Contract\obj\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\Contract\obj\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\Contract\obj\Debug\Contract.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\WPFPrism\Contract\obj\Debug\Contract.pdb
+E:\Temp\WPFPrism\Contract\bin\Debug\Contract.dll
+E:\Temp\WPFPrism\Contract\bin\Debug\Contract.pdb
+E:\Temp\WPFPrism\Contract\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\WPFPrism\Contract\obj\Debug\Contract.Properties.Resources.resources
+E:\Temp\WPFPrism\Contract\obj\Debug\GenerateResource.read.1.tlog
+E:\Temp\WPFPrism\Contract\obj\Debug\GenerateResource.write.1.tlog
+E:\Temp\WPFPrism\Contract\obj\Debug\Contract.dll
+E:\Temp\WPFPrism\Contract\obj\Debug\Contract.pdb
+E:\Temp\WPFPrism\Contract\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Temp\WPFPrism\Contract\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Temp\WPFPrism\Contract\bin\Debug\Microsoft.Practices.ServiceLocation.dll

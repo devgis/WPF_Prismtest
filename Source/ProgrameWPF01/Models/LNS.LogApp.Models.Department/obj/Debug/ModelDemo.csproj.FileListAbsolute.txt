@@ -1,0 +1,2 @@
+E:\WPF\trunk\Programe\ModelDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF\trunk\Programe\ModelDemo\obj\Debug\ModelDemo_MarkupCompile.cache

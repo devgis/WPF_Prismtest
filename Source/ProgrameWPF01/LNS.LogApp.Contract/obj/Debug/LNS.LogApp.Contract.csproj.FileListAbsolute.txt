@@ -1,0 +1,11 @@
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\obj\Debug\ResolveAssemblyReference.cache
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\obj\Debug\LNS.LogApp.Contract.Properties.Resources.resources
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\obj\Debug\GenerateResource.read.1.tlog
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\obj\Debug\GenerateResource.write.1.tlog
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\bin\Debug\LNS.LogApp.Contract.dll
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\bin\Debug\LNS.LogApp.Contract.pdb
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\bin\Debug\Microsoft.Practices.Prism.dll
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\bin\Debug\Microsoft.Practices.Unity.dll
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\obj\Debug\LNS.LogApp.Contract.dll
+E:\WPF\trunk\Programe\LNS.LogApp.Contract\obj\Debug\LNS.LogApp.Contract.pdb

@@ -1,0 +1,17 @@
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\bin\Debug\DazzleUI2.Demo.exe
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\bin\Debug\DazzleUI2.Demo.pdb
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\bin\Debug\WPF.DazzleUI2.dll
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\bin\Debug\WPF.DazzleUI2.pdb
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\DazzleUI2.Demo_MarkupCompile.cache
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\DazzleUI2.Demo.g.resources
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\DazzleUI2.Demo.Properties.Resources.resources
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\DazzleUI2.Demo.exe
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\DazzleUI2.Demo.pdb
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\LoginForm.baml
+C:\Documents and Settings\Gates\桌面\WPF仿360卫士9.0界面设计\WPF.DazzleUI\DazzleUI2.Demo\obj\x86\Debug\LoginForm.g.cs

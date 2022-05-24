@@ -1,0 +1,5 @@
+E:\MoreEvent\MoreEvent.Web\bin\MoreEvent.Web.dll
+E:\MoreEvent\MoreEvent.Web\bin\MoreEvent.Web.pdb
+E:\MoreEvent\MoreEvent.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\MoreEvent\MoreEvent.Web\obj\Debug\MoreEvent.Web.dll
+E:\MoreEvent\MoreEvent.Web\obj\Debug\MoreEvent.Web.pdb

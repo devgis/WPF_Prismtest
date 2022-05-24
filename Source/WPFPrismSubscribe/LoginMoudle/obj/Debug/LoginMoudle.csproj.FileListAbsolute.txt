@@ -1,0 +1,17 @@
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\DefaultLoginView.baml
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\DefaultLoginView.g.cs
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\LoginMoudle_MarkupCompile.cache
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\LoginMoudle.g.resources
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\LoginMoudle.Properties.Resources.resources
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\GenerateResource.read.1.tlog
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\GenerateResource.write.1.tlog
+E:\Temp\WPFPrism\LoginMoudle\bin\Debug\LoginMoudle.dll
+E:\Temp\WPFPrism\LoginMoudle\bin\Debug\LoginMoudle.pdb
+E:\Temp\WPFPrism\LoginMoudle\bin\Debug\Contract.dll
+E:\Temp\WPFPrism\LoginMoudle\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Temp\WPFPrism\LoginMoudle\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Temp\WPFPrism\LoginMoudle\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Temp\WPFPrism\LoginMoudle\bin\Debug\Contract.pdb
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\LoginMoudle.dll
+E:\Temp\WPFPrism\LoginMoudle\obj\Debug\LoginMoudle.pdb
